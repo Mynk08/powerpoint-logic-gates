@@ -1,0 +1,11 @@
+AND Gate Slide Structure:
+
+Slide 1: Input A Selection (ON/OFF buttons)
+Slide 2: Input B Selection (given A=ON)
+Slide 3: Input B Selection (given A=OFF)
+Slide 4: Output (A=ON, B=ON) -> Result: ON
+Slide 5: Output (A=ON, B=OFF) -> Result: OFF
+Slide 6: Output (A=OFF, B=ON) -> Result: OFF
+Slide 7: Output (A=OFF, B=OFF) -> Result: OFF
+
+Hyperlinks connect choices to appropriate output slides.
